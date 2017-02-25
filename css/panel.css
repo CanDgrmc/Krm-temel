@@ -1,0 +1,13 @@
+ul{
+  list-style-type: none;
+}
+.form {
+  display: none;
+}
+.btn-lg i {
+  float: left;
+}
+.text-right i {
+  font-size: 18px;
+  color: #313131;
+}
